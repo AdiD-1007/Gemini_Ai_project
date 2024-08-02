@@ -1,2 +1,3 @@
 # Gemini_Ai_project
-Here i have built AI boat as well as image captioning
+Here I have built an AI bot which does image captioning
+ as well.
